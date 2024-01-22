@@ -1,2 +1,2 @@
-# rafborgescosta.github.com
-I am trying my web devolpment skills with this website
+# rafborgescosta.github.io
+I am trying my web development skills with this website
